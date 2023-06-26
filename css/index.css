@@ -1,0 +1,73 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+font-family:"Liberation Mono","Courier New",monospace;
+}
+
+.container {
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.recipe-card {
+    border: 3px yellow solid;
+    width: 460px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    height: 400px;
+    width: 454px;
+    object-fit: cover ;
+}
+
+.recipe-info {
+    background-color: rgb(105, 96, 96);
+    color: white;
+    text-align: center;
+    margin-top: -5px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(194, 119, 27);
+    margin-bottom: 90px;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
